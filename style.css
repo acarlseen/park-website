@@ -1,0 +1,116 @@
+/* {
+    border: 1px solid red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}*/
+
+.bg-park {
+    background-color: rgb(82, 126, 75);
+}
+/*
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+nav {
+    background-color: rgb(84, 119, 104);
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    height : 70px;
+    width : 100%;
+    top: 0px;
+    justify-content: space-between;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0px;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%
+}
+
+.navbar-brand {
+    color: rgb(176, 200, 188);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5%;
+    width: 25%;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 75%;
+    height: 100%;
+    text-decoration: none;
+    font-size: 1.5em;
+
+}
+
+.nav-item {
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(188, 200, 195);
+}
+
+#header {
+    font-size: 3em;
+}
+
+.head-back {
+    z-index: -1;
+    width: 100%;
+    object-fit: cover;
+    margin-top: -100px;
+    position: fixed;
+    mask: black;
+}
+
+.greet-img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.hero {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    height : 400px;
+    width:100%
+}
+.greet-1 {
+    display: flex;
+    justify-content: center;
+    color : rgb(189, 178, 178);
+    font-size: 5em;
+    width: 50%;
+    margin-top: 70px;
+}
+
+.greet-2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color : rgb(189, 178, 178);
+    font-size: 5em;
+    width: 50%;
+}
+*/
